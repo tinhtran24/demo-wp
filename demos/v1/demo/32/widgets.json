@@ -1,0 +1,51 @@
+{
+    "ohio-sidebar-blog": {
+        "block-2": {
+            "content": "<!-- wp:search \/-->"
+        },
+        "block-3": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-4": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"
+        }
+    },
+    "ohio-sidebar-page": {
+        "block-5": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-6": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"
+        }
+    },
+    "ohio-sidebar-footer-1": {
+        "block-18": {
+            "content": "<h3 style=\"font-size: 33px;line-height:1;\">Subscribe to our newsletter to stay in touch with the latest.<h3>"
+        },
+        "ohio_widget_subscribe-1": {
+            "title": "",
+            "feedburner": "152829"
+        }
+    },
+    "ohio-sidebar-footer-2": {
+        "block-16": {
+            "content": "&nbsp;"
+        }
+    },
+    "ohio-sidebar-footer-3": {
+        "block-10": {
+            "content": "<p>\n<span class=\"-light-t\">Witte de Withstraat<\/span><br>\n<span class=\"-light-t\">Lote 50, 3012 BR, 6518-25<\/span><br>\nAmsterdam,<br>\nthe Netherlands\n<\/p>"
+        },
+        "block-12": {
+            "content": "<p class=\"-medium-t\">\nGPS<br>\nN 64\u00b0 35' 84.36\"<br>\nW 5\u00b0 45' 6.20\"\n<\/p>"
+        }
+    },
+    "ohio-sidebar-footer-4": {
+        "block-14": {
+            "content": "<p><span class=\"-light-t\">New business enquiries<\/span><br>\n<span class=\"-medium-t\"><a target=\"_blank\" href=\"#\">work@clbthemes.com<\/a><\/span><\/p>"
+        },
+        "block-15": {
+            "content": "<p class=\"-medium-t\">\n<a target=\"_blank\" href=\"#\">Facebook<\/a><br>\n<a target=\"_blank\" href=\"#\">Twitter<\/a><br>\n<a target=\"_blank\" href=\"#\">Instagram<\/a><br>\n<a target=\"_blank\" href=\"#\">Behance<\/a><br>\n<\/p>"
+        }
+    }
+}
