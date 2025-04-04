@@ -1,0 +1,55 @@
+{
+	"ohio-sidebar-blog": {
+		"search-2": {
+			"title": ""
+		},
+		"recent-posts-2": {
+			"title": "",
+			"number": 5
+		},
+		"recent-comments-2": {
+			"title": "",
+			"number": 5
+		}
+	},
+	"ohio-sidebar-page": {
+		"archives-2": {
+			"title": "",
+			"count": 0,
+			"dropdown": 0
+		},
+		"categories-2": {
+			"title": "",
+			"count": 0,
+			"hierarchical": 0,
+			"dropdown": 0
+		},
+		"meta-2": {
+			"title": ""
+		}
+	},
+	"ohio-sidebar-footer-1": {
+		"ohio_widget_logo-2": {
+			"custom_css": ""
+		},
+		"block-5": {
+			"content": "<p class=\"-small-t\">\nPremium WordPress theme<br class=\"vc_hidden-xs\">\nto make a showcase, portfolio, blog<br class=\"vc_hidden-xs\">\nor eCommerce website.\n<p>"
+		}
+	},
+	"ohio-sidebar-footer-2": {
+		"block-6": {
+			"content": "<h3 class=\"title widget-title\">Product Features</h3>\n\n<ul>\n<li><a href=\"#\" target=\"_blank\">Complete Solutions</a></li>\n<li><a href=\"#\" target=\"_blank\">Demo Templates</a></li>\n<li><a href=\"#\" target=\"_blank\">Theme Settings</a></li>\n<li><a href=\"#\" target=\"_blank\">FAQs</a></li>\n<li><a href=\"#\" target=\"_blank\">Complete Solutions</a></li>\n<li><a href=\"#\" target=\"_blank\">Complete Solutions</a></li>\n</ul>"
+		}
+	},
+	"ohio-sidebar-footer-3": {
+		"block-7": {
+			"content": "<h3 class=\"title widget-title\">Resources</h3>\n\n<ul>\n<li><a href=\"https://docs.clbthemes.com/ohio\" target=\"_blank\">Documentation</a></li>\n<li><a href=\"https://docs.clbthemes.com/ohio/release-notes/\" target=\"_blank\">Release Notes</a></li>\n<li><a href=\"https://colabrio.ticksy.com/\" target=\"_blank\">Help Center</a></li>\n<li><a href=\"https://colabrio.ticksy.com/submit/\" target=\"_blank\">Submit a Request</a></li>\n<li><a href=\"https://themeforest.net/item/ohio-creative-wordpress-theme/reviews/25193838\" target=\"_blank\">Customer’s Reviews</a></li>\n<li><a href=\"https://themeforest.net/licenses/standard\" target=\"_blank\">Licenses</a></li>\n</ul>"
+		}
+	},
+	"ohio-sidebar-footer-4": {
+		"ohio_widget_subscribe-2": {
+			"title": "Sign up for updates on our news and latest innovations",
+			"feedburner": "2845"
+		}
+	}
+}
